@@ -25,8 +25,9 @@ Puis ouvrir `http://127.0.0.1:4173/`.
 
 ## Fichiers
 
-- `index.html` — contenu, SEO et structure ;
-- `styles.css` — design responsive ;
+- `index.html` — landing principale destinée aux agences d’acquisition ;
+- `annonceurs/index.html` — landing distincte pour les annonceurs qui souhaitent internaliser Google Ads et Social Ads ;
+- `styles.css` — design responsive partagé entre les deux parcours ;
 - `script.js` — navigation mobile et animations accessibles ;
 - `favicon.svg` / `og-image.svg` — sources vectorielles de l’identité Escale AI ;
 - `og-image.png` — image sociale 1200 × 630 utilisée par les métadonnées Open Graph.
