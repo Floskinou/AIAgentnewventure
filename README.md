@@ -1,6 +1,19 @@
-# Fabrique Agents
+# Escale AI
 
-Site vitrine statique du projet **Fabrique Agents** — conseil, conception, déploiement et exploitation d'agents IA métier.
+Site vitrine statique d’**Escale AI**, une offre d’agents IA exclusivement dédiée aux agences d’acquisition.
+
+## Positionnement
+
+Escale AI conçoit et opère des agents spécialisés pour :
+
+- Google Ads ;
+- Meta Ads ;
+- Google Tag Manager ;
+- Google Analytics 4 ;
+- Google Search Console ;
+- le reporting multi-comptes et cross-canal.
+
+Les agents contrôlent, analysent et préparent le travail. Les publications, modifications de budget et envois client restent soumis aux permissions et validations définies avec l’agence.
 
 ## Prévisualisation locale
 
@@ -12,15 +25,12 @@ Puis ouvrir `http://127.0.0.1:4173/`.
 
 ## Fichiers
 
-- `index.html` — contenu et structure
-- `styles.css` — design responsive
-- `script.js` — navigation mobile et animations accessibles
-- `favicon.svg` / `og-image.svg` — identité provisoire
-
-## Statut de la marque
-
-Le nom et le domaine sont provisoires. Les contrôles RDAP du 13 août 2026 indiquaient `fabriqueagents.fr` et `fabriqueagents.com` non enregistrés, sans constituer une réservation ni une validation juridique INPI/EUIPO.
+- `index.html` — contenu, SEO et structure ;
+- `styles.css` — design responsive ;
+- `script.js` — navigation mobile et animations accessibles ;
+- `favicon.svg` / `og-image.svg` — sources vectorielles de l’identité Escale AI ;
+- `og-image.png` — image sociale 1200 × 630 utilisée par les métadonnées Open Graph.
 
 ## Publication
 
-Aucun hébergeur ni formulaire de production n'est configuré. Le CTA renvoie provisoirement vers le Calendly existant de Florent. Avant mise en ligne : acheter/valider la marque, configurer le domaine, compléter les mentions légales et ajouter le tracking avec consentement si souhaité.
+Le dépôt est la source du site, mais aucun domaine, hébergeur de production, formulaire ou tracking n’est configuré automatiquement. Le CTA utilise le Calendly validé `https://calendly.com/escaleads/30min`.
